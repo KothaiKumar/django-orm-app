@@ -51,12 +51,13 @@ admin.site.register(Student,StudentAdmin)
 ```
 ## OUTPUT
 ## server output:
+![django1](https://github.com/KothaiKumar/django-orm-app/assets/121215739/87cd7970-8191-4c8e-864f-3ccfed092d83)
 
-![233094322-425f520d-d551-4dc4-bf3b-3f76b1bb2ca6](https://github.com/KothaiKumar/django-orm-app/assets/121215739/5b0dbf14-b3ac-405d-97d6-87bcbafca077)
 
 ## client output:
 
-![233094423-311d5aa5-454d-497c-a947-c85beb26881b (1)](https://github.com/KothaiKumar/django-orm-app/assets/121215739/47dc7550-6017-494c-8e52-7a5ef0ccd557)
+![djano1output](https://github.com/KothaiKumar/django-orm-app/assets/121215739/c5771f78-6036-41e6-9d1b-da17fdb45799)
+
 
 ## RESULT
 Thus the program has been executed successfully
