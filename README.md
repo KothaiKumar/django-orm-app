@@ -55,7 +55,6 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## client output:
-
 ![djano1output](https://github.com/KothaiKumar/django-orm-app/assets/121215739/c5771f78-6036-41e6-9d1b-da17fdb45799)
 
 
